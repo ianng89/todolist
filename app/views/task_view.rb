@@ -3,7 +3,7 @@ require_relative '../../config/application'
 require_relative '../controllers/tasks_controller.rb'
 
 def main_screen
-
+puts
 linebreak = '============================='
 
 puts linebreak
